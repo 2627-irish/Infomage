@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Gallery101 {
+  box-sizing: border-box;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20;
+}
+.galler {
+  border-radius: 20;
+}
